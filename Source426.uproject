@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6556C3BE-4DE7-B5CE-018F-07AC5B7F9695}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Source426",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"UnrealEd"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MyBlankPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "MyBlueprintLibraryPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "MyContentOnly",
+			"Enabled": false
+		},
+		{
+			"Name": "MyEditorModePlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "MyEditorStaWindowPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "MyEditorToolBarButPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "MyThirdParLibraryPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "NewAsset",
+			"Enabled": true
+		}
+	]
+}
