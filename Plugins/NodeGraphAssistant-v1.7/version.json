@@ -1,0 +1,6 @@
+{
+    "name": "NodeGraphAssistant",
+    "version": "1.7.0",
+	"installed_path": "./UnrealEngine/Engine/Plugins/MarketPlace/",
+    "dependencies": []
+}
