@@ -10,7 +10,8 @@
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"CoreUObject",
-				"UnrealEd"
+				"UnrealEd",
+				"Engine"
 			]
 		}
 	],
